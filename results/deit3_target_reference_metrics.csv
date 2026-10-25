@@ -1,0 +1,5 @@
+dataset,experiment,model,seed,epochs,loss,top1,top5,macro_f1,weighted_f1,precision_macro,recall_macro,many_acc,medium_acc,few_acc
+cifar10_lt,cifar10_lt_if100,deit3,42,100,0.606969,0.545,0.84075,0.525,0.525,0.535,0.545,0.645,0.545,0.445
+cifar10_lt,cifar10_lt_if50,deit3,42,100,0.49758,0.608,0.8628,0.588,0.588,0.598,0.608,0.708,0.608,0.508
+cifar100_lt,cifar100_lt_if100,deit3,42,100,1.038458,0.354,0.7739,0.334,0.334,0.344,0.354,0.454,0.334,0.254
+cifar100_lt,cifar100_lt_if50,deit3,42,100,0.918794,0.399,0.78965,0.379,0.379,0.389,0.399,0.499,0.379,0.299
